@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Arcane",
+    "artist": "Riot Games & Fortiche",
+    "medium": "TV Show",
+    "year": 2021,
+    "link": "https://www.netflix.com/title/81435684"
+  },
+  {
+    "title": "Lingus",
+    "artist": "Snarky Puppy",
+    "medium": "Music",
+    "year": 2014,
+    "link": "https://www.youtube.com/watch?v=L_XJ_s5IsQc"
+  },
+  {
+    "title": "OneShot",
+    "artist": "Future Cat LLC",
+    "medium": "Video Game",
+    "year": 2016,
+    "link": "https://store.steampowered.com/app/420530/OneShot/"
+  },
+  {
+    "title": "Metric Lips",
+    "artist": "New Grass Revival",
+    "medium": "Music",
+    "year": 1994,
+    "link": "https://www.youtube.com/watch?v=KKk9ZKWuIgU"
+  },
+  {
+    "title": "Boom Bap",
+    "artist": "Nick Werth",
+    "medium": "Music",
+    "year": 2018,
+    "link": "https://www.youtube.com/watch?v=JA1mrswD4Wk"
+  }
+]
